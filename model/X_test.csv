@@ -1,0 +1,32 @@
+Feature class element,Geometry type
+Pipeline Anchor,point
+Pipeline Valve Type,attribute
+Pipeline ASTM Material,attribute
+CP ASTM Anode Manufacture Component,attribute
+Pipeline Pipe Wall Thickness - Transmission,attribute
+Pipeline Reducer Fitting Size,attribute
+Test Point,point
+Controllable Tee,point
+Pressure Monitoring Device,point
+Flow Valve,point
+Pipeline Pipe Wall Thickness - Station,attribute
+Pipeline Pipe Outside Diameter,attribute
+Pipeline Cooling Method,attribute
+Pump,point
+Pipeline End Connection,point
+Wellhead,polygon
+Pipeline Station Structure,polygon
+Connection Point,point
+Pipeline Pipe Diameter - Station,attribute
+Pipeline Life Cycle Status,attribute
+Pipeline Install Method,attribute
+Cooling System,point
+Distribution Pipe,line
+Unknown,polygon
+Service Pipe,line
+Pipeline Pressure Range,attribute
+Elbow,point
+CP Rectifier Manufacturer,attribute
+Pipeline Girth Weld Type,attribute
+Odorizer,point
+CP Rectifier Cable Gauge,attribute

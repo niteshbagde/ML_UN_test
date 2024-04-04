@@ -1,0 +1,153 @@
+Feature class,Feature class element,Geometry type
+PipelineAssembly,Compressor Station,polygon
+PipelineAssembly,Fitting Assembly,polygon
+PipelineAssembly,Meter Setting,polygon
+PipelineAssembly,Pigging Structure,polygon
+PipelineAssembly,Pump Station,polygon
+PipelineAssembly,Regulator Station,polygon
+PipelineAssembly,Rural Tap,polygon
+PipelineAssembly,Town Border Station,polygon
+PipelineAssembly,Unknown,polygon
+PipelineAssembly,Wellhead,polygon
+PipelineDevice,Anode,point
+PipelineDevice,Compressor,point
+PipelineDevice,Controllable Tee,point
+PipelineDevice,Controllable Valve,point
+PipelineDevice,Excess Flow Valve,point
+PipelineDevice,Flow Valve,point
+PipelineDevice,Lamp,point
+PipelineDevice,Meter,point
+PipelineDevice,Pressure Monitoring Device,point
+PipelineDevice,Pump,point
+PipelineDevice,Rectifier,point
+PipelineDevice,Regulator,point
+PipelineDevice,Relief Valve,point
+PipelineDevice,Scrubber,point
+PipelineDevice,Short Stop,point
+PipelineDevice,Strainer,point
+PipelineDevice,Test Point,point
+PipelineDevice,Unknown,point
+PipelineDevice,Wellhead Source Flange,point
+PipelineJunction,Bond Junction,point
+PipelineJunction,Connection Point,point
+PipelineJunction,Cooling System,point
+PipelineJunction,Coupling,point
+PipelineJunction,Coupon,point
+PipelineJunction,Dehydration Equipment,point
+PipelineJunction,Drip,point
+PipelineJunction,Elbow,point
+PipelineJunction,Electro Stop,point
+PipelineJunction,End Cap,point
+PipelineJunction,Expansion Joint,point
+PipelineJunction,Flange,point
+PipelineJunction,Line Heater,point
+PipelineJunction,Odorizer,point
+PipelineJunction,Plastic Fusion,point
+PipelineJunction,Plug,point
+PipelineJunction,Reducer,point
+PipelineJunction,Saddle,point
+PipelineJunction,Screw,point
+PipelineJunction,Tank,point
+PipelineJunction,Tee,point
+PipelineJunction,Transition,point
+PipelineJunction,Union,point
+PipelineJunction,Unknown,point
+PipelineJunction,Weld,point
+PipelineLine,Bond Wire,line
+PipelineLine,Customer Pipe,line
+PipelineLine,Distribution Pipe,line
+PipelineLine,Gathering Pipe,line
+PipelineLine,Rectifier Cable,line
+PipelineLine,Riser Pipe,line
+PipelineLine,Service Pipe,line
+PipelineLine,Station Pipe,line
+PipelineLine,Transmission Pipe,line
+PipelineLine,Unknown,line
+StructureBoundary,Pipeline Processing Facility,polygon
+StructureBoundary,Pipeline Station Structure,polygon
+StructureBoundary,Pipeline Vault Boundary,polygon
+StructureBoundary,Unknown,polygon
+StructureJunction,Pipeline Anchor,point
+StructureJunction,Pipeline End Connection,point
+StructureJunction,Pipeline Muffler,point
+StructureJunction,Pipeline Pipe Hanger,point
+StructureJunction,Pipeline Pipe Support,point
+StructureJunction,Pipeline Valve Box,point
+StructureJunction,Pipeline Vault,point
+StructureJunction,Unknown,point
+StructureLine,Pipeline Casing,line
+StructureLine,Unknown,line
+Attribute Domains,AnnotationStatus,attribute
+Attribute Domains,Asset Manager,attribute
+Attribute Domains,Asset Owner,attribute
+Attribute Domains,BooleanSymbolValue,attribute
+Attribute Domains,CP ASTM Anode Manufacture Component,attribute
+Attribute Domains,CP Anode Weight,attribute
+Attribute Domains,CP Color Code,attribute
+Attribute Domains,CP Rectifier Cable Gauge,attribute
+Attribute Domains,CP Rectifier Manufacturer,attribute
+Attribute Domains,CP Test Point Wire Count,attribute
+Attribute Domains,Gas Regulatory Type,attribute
+Attribute Domains,Gas Valve Condition,attribute
+Attribute Domains,HorizontalAlignment,attribute
+Attribute Domains,Pipeline ASTM Coupling Manufacture Component,attribute
+Attribute Domains,Pipeline ASTM EFV Manufacture Component,attribute
+Attribute Domains,Pipeline ASTM Elbow Manufacture Component,attribute
+Attribute Domains,Pipeline ASTM End Cap Manufacture Component,attribute
+Attribute Domains,Pipeline ASTM Manufacturer,attribute
+Attribute Domains,Pipeline ASTM Material,attribute
+Attribute Domains,Pipeline ASTM Meter Manufacture Component,attribute
+Attribute Domains,Pipeline ASTM Pipe Manufacture Component,attribute
+Attribute Domains,Pipeline ASTM Reducer Manufacture Component,attribute
+Attribute Domains,Pipeline ASTM Regulator Manufacture Component,attribute
+Attribute Domains,Pipeline ASTM Saddle Manufacture Component,attribute
+Attribute Domains,Pipeline ASTM Strainer Manufacture Component,attribute
+Attribute Domains,Pipeline ASTM Tee Manufacture Component,attribute
+Attribute Domains,Pipeline ASTM Transition Manufacture Component,attribute
+Attribute Domains,Pipeline ASTM Valve Manufacture Component,attribute
+Attribute Domains,Pipeline Casing Diameter,attribute
+Attribute Domains,Pipeline Casing Fill Type,attribute
+Attribute Domains,Pipeline Cooling Method,attribute
+Attribute Domains,Pipeline Device Status,attribute
+Attribute Domains,Pipeline EFV Diameter,attribute
+Attribute Domains,Pipeline Fitting Diameter,attribute
+Attribute Domains,Pipeline Girth Weld Type,attribute
+Attribute Domains,Pipeline Install Method,attribute
+Attribute Domains,Pipeline Length Source,attribute
+Attribute Domains,Pipeline Life Cycle Status,attribute
+Attribute Domains,Pipeline Lining Type,attribute
+Attribute Domains,Pipeline Meter Diameter - Customer,attribute
+Attribute Domains,Pipeline Meter Type,attribute
+Attribute Domains,Pipeline Odorant Type,attribute
+Attribute Domains,Pipeline Over Pressure Protection Type,attribute
+Attribute Domains,Pipeline Pipe Diameter - Customer,attribute
+Attribute Domains,Pipeline Pipe Diameter - Distribution,attribute
+Attribute Domains,Pipeline Pipe Diameter - Gathering,attribute
+Attribute Domains,Pipeline Pipe Diameter - Riser,attribute
+Attribute Domains,Pipeline Pipe Diameter - Services,attribute
+Attribute Domains,Pipeline Pipe Diameter - Station,attribute
+Attribute Domains,Pipeline Pipe Diameter - Transmission,attribute
+Attribute Domains,Pipeline Pipe Outside Diameter,attribute
+Attribute Domains,Pipeline Pipe Outside Diameter - Riser,attribute
+Attribute Domains,Pipeline Pipe Outside Diameter - Station,attribute
+Attribute Domains,Pipeline Pipe Outside Diameter - Transmission,attribute
+Attribute Domains,Pipeline Pipe Wall Thickness,attribute
+Attribute Domains,Pipeline Pipe Wall Thickness - Riser,attribute
+Attribute Domains,Pipeline Pipe Wall Thickness - Station,attribute
+Attribute Domains,Pipeline Pipe Wall Thickness - Transmission,attribute
+Attribute Domains,Pipeline Pipe Wellhead Pressure Rating,attribute
+Attribute Domains,Pipeline Pipeline Operator Number,attribute
+Attribute Domains,Pipeline Pressure Range,attribute
+Attribute Domains,Pipeline Reducer Fitting Size,attribute
+Attribute Domains,Pipeline Regulator Casing Material,attribute
+Attribute Domains,Pipeline Regulatory Type,attribute
+Attribute Domains,Pipeline Seam Orientation,attribute
+Attribute Domains,Pipeline Seam Type,attribute
+Attribute Domains,Pipeline Supplier,attribute
+Attribute Domains,Pipeline Valve Diameter,attribute
+Attribute Domains,Pipeline Valve Position,attribute
+Attribute Domains,Pipeline Valve Type,attribute
+Attribute Domains,Symbol Rotation,attribute
+Attribute Domains,VerticalAlignment,attribute
+Attribute Domains,Yes No,attribute
+Attribute Domains,Yes No Not Applicable,attribute
