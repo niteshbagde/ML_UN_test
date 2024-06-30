@@ -1,0 +1,147 @@
+Feature Class Element        - Definition
+Compressor Station           - A facility with compressors that maintain the pressure of the natural gas.
+Fitting Assembly             - A collection of fittings used in the pipeline system.
+Meter Setting                - An installation where gas flow is measured.
+Pigging Structure            - A facility for cleaning and inspecting pipelines using devices known as pigs.
+Pump Station                 - A facility where pumps are used to transport gas through pipelines.
+Regulator Station            - A facility that controls the pressure and flow of gas.
+Rural Tap                    - A connection point in rural areas for gas distribution.
+Town Border Station          - A facility where gas enters a town's distribution system.
+Unknown                      - A feature class element with an unknown purpose.
+Wellhead                     - The structure at the surface of a well that provides access to the pipeline system.
+Anode                        - A device used in cathodic protection to prevent corrosion of the pipeline.
+Compressor                   - A device that increases the pressure of the gas.
+Controllable Tee             - A tee fitting with controllable valves.
+Controllable Valve           - A valve that can be controlled to regulate gas flow.
+Excess Flow Valve            - A valve that automatically shuts off when the flow exceeds a certain rate.
+Flow Valve                   - A valve used to control the flow of gas.
+Lamp                         - A light source used in the pipeline system.
+Meter                        - A device used to measure the quantity of gas.
+Pressure Monitoring Device   - A device that monitors the pressure in the pipeline.
+Pump                         - A device used to transport gas through the pipeline.
+Rectifier                    - An electrical device used in cathodic protection systems.
+Regulator                    - A device used to control the pressure of the gas.
+Relief Valve                 - A safety valve that releases gas when the pressure exceeds a certain level.
+Scrubber                     - A device used to remove impurities from the gas.
+Short Stop                   - A device used to temporarily stop the flow of gas.
+Strainer                     - A device used to filter out particles from the gas.
+Test Point                   - A location where tests are conducted on the pipeline.
+Wellhead Source Flange       - A flange used at the wellhead source.
+Bond Junction                - A junction where electrical bonding occurs.
+Connection Point             - A point where different sections of the pipeline are connected.
+Cooling System               - A system used to cool the gas in the pipeline.
+Coupling                     - A device used to connect two sections of the pipeline.
+Coupon                       - A sample of material used for testing.
+Dehydration Equipment        - Equipment used to remove water from the gas.
+Drip                         - A device used to collect liquids from the gas.
+Elbow                        - A pipe fitting that changes the direction of the pipeline.
+Electro Stop                 - A device used to stop the flow of electricity.
+End Cap                      - A cap used to close the end of a pipeline.
+Expansion Joint              - A joint that allows for expansion and contraction of the pipeline.
+Flange                       - A device used to connect two sections of the pipeline.
+Line Heater                  - A device used to heat the gas in the pipeline.
+Odorizer                     - A device used to add odor to the gas for safety purposes.
+Plastic Fusion               - A method used to join plastic pipes.
+Plug                         - A device used to close an opening in the pipeline.
+Reducer                      - A fitting used to reduce the diameter of the pipeline.
+Saddle                       - A fitting used to provide support to the pipeline.
+Screw                        - A device used to fasten components of the pipeline.
+Tank                         - A container used to store gas.
+Tee                          - A pipe fitting with three openings.
+Transition                   - A fitting used to transition between different sections of the pipeline.
+Union                        - A device used to join two sections of the pipeline.
+Weld                         - A method used to join sections of the pipeline.
+Bond Wire                    - A wire used for electrical bonding.
+Customer Pipe                - A pipe used for gas distribution to customers.
+Distribution Pipe            - A pipe used for distributing gas within a distribution system.
+Gathering Pipe               - A pipe used for gathering gas from multiple sources.
+Rectifier Cable              - A cable used in cathodic protection systems.
+Riser Pipe                   - A vertical pipe used to connect different levels of the pipeline.
+Service Pipe                 - A pipe used to deliver gas to customers.
+Station Pipe                 - A pipe used within a station facility.
+Transmission Pipe            - A pipe used for transporting gas over long distances.
+Pipeline Processing Facility - A facility where gas is processed before distribution.
+Pipeline Station Structure   - A structure within a pipeline station.
+Pipeline Vault Boundary      - The boundary of a vault used in the pipeline system.
+Pipeline Anchor              - A device used to secure the pipeline in place.
+Pipeline End Connection      - The connection point at the end of a pipeline.
+Pipeline Muffler             - A device used to reduce noise in the pipeline.
+Pipeline Pipe Hanger         - A device used to support the pipeline.
+Pipeline Pipe Support        - A device used to support the pipeline.
+Pipeline Valve Box           - A box used to house valves in the pipeline system.
+Pipeline Vault               - A vault used in the pipeline system.
+Pipeline Casing              - A casing used to protect the pipeline.
+AnnotationStatus             - The status of annotations in the pipeline system.
+Asset Manager                - The manager responsible for the pipeline assets.
+Asset Owner                  - The owner of the pipeline assets.
+BooleanSymbolValue           - A boolean value representing a symbolic attribute.
+CP ASTM Anode Manufacture Component - A component used in the manufacture of ASTM anodes.
+CP Anode Weight              - The weight of an anode used in cathodic protection.
+CP Color Code                - The color code used in cathodic protection systems.
+CP Rectifier Cable Gauge     - The gauge of rectifier cables used in cathodic protection.
+CP Rectifier Manufacturer    - The manufacturer of rectifiers used in cathodic protection.
+CP Test Point Wire Count     - The number of wires at a test point in cathodic protection.
+Gas Regulatory Type          - The type of regulation applicable to the gas pipeline.
+Gas Valve Condition          - The condition of valves in the gas pipeline.
+HorizontalAlignment          - The horizontal alignment of the pipeline.
+Pipeline ASTM Coupling Manufacture Component - A component used in the manufacture of ASTM couplings.
+Pipeline ASTM EFV Manufacture Component - A component used in the manufacture of ASTM excess flow valves.
+Pipeline ASTM Elbow Manufacture Component - A component used in the manufacture of ASTM elbows.
+Pipeline ASTM End Cap Manufacture Component - A component used in the manufacture of ASTM end caps.
+Pipeline ASTM Manufacturer    - The manufacturer of ASTM pipeline components.
+Pipeline ASTM Material        - The material used in ASTM pipeline components.
+Pipeline ASTM Meter Manufacture Component - A component used in the manufacture of ASTM meters.
+Pipeline ASTM Pipe Manufacture Component - A component used in the manufacture of ASTM pipes.
+Pipeline ASTM Reducer Manufacture Component - A component used in the manufacture of ASTM reducers.
+Pipeline ASTM Regulator Manufacture Component - A component used in the manufacture of ASTM regulators.
+Pipeline ASTM Saddle Manufacture Component - A component used in the manufacture of ASTM saddles.
+Pipeline ASTM Strainer Manufacture Component - A component used in the manufacture of ASTM strainers.
+Pipeline ASTM Tee Manufacture Component - A component used in the manufacture of ASTM tees.
+Pipeline ASTM Transition Manufacture Component - A component used in the manufacture of ASTM transitions.
+Pipeline ASTM Valve Manufacture Component - A component used in the manufacture of ASTM valves.
+Pipeline Casing Diameter      - The diameter of the pipeline casing.
+Pipeline Casing Fill Type     - The type of fill used in the pipeline casing.
+Pipeline Cooling Method       - The method used to cool the gas in the pipeline.
+Pipeline Device Status        - The status of devices in the pipeline system.
+Pipeline EFV Diameter         - The diameter of excess flow valves in the pipeline.
+Pipeline Fitting Diameter     - The diameter of fittings in the pipeline.
+Pipeline Girth Weld Type      - The type of girth weld used in the pipeline.
+Pipeline Install Method       - The method used to install the pipeline.
+Pipeline Length Source        - The source of the length measurement for the pipeline.
+Pipeline Life Cycle Status    - The life cycle status of the pipeline.
+Pipeline Lining Type          - The type of lining used in the pipeline.
+Pipeline Meter Diameter - Customer - The diameter of customer meters in the pipeline.
+Pipeline Meter Type           - The type of meter used in the pipeline.
+Pipeline Odorant Type         - The type of odorant used in the gas pipeline.
+Pipeline Over Pressure Protection Type - The type of over pressure protection used in the pipeline.
+Pipeline Pipe Diameter - Customer - The diameter of customer pipes in the pipeline.
+Pipeline Pipe Diameter - Distribution - The diameter of distribution pipes in the pipeline.
+Pipeline Pipe Diameter - Gathering - The diameter of gathering pipes in the pipeline.
+Pipeline Pipe Diameter - Riser - The diameter of riser pipes in the pipeline.
+Pipeline Pipe Diameter - Services - The diameter of service pipes in the pipeline.
+Pipeline Pipe Diameter - Station - The diameter of station pipes in the pipeline.
+Pipeline Pipe Diameter - Transmission - The diameter of transmission pipes in the pipeline.
+Pipeline Pipe Outside Diameter - The outside diameter of the pipeline.
+Pipeline Pipe Outside Diameter - Riser - The outside diameter of riser pipes in the pipeline.
+Pipeline Pipe Outside Diameter - Station - The outside diameter of station pipes in the pipeline.
+Pipeline Pipe Outside Diameter - Transmission - The outside diameter of transmission pipes in the pipeline.
+Pipeline Pipe Wall Thickness   - The wall thickness of the pipeline.
+Pipeline Pipe Wall Thickness - Riser - The wall thickness of riser pipes in the pipeline.
+Pipeline Pipe Wall Thickness - Station - The wall thickness of station pipes in the pipeline.
+Pipeline Pipe Wall Thickness - Transmission - The wall thickness of transmission pipes in the pipeline.
+Pipeline Pipe Wellhead Pressure Rating - The pressure rating of the wellhead in the pipeline.
+Pipeline Pipeline Operator Number - The operator number of the pipeline.
+Pipeline Pressure Range        - The pressure range of the pipeline.
+Pipeline Reducer Fitting Size  - The size of reducer fittings in the pipeline.
+Pipeline Regulator Casing Material - The casing material of regulators in the pipeline.
+Pipeline Regulatory Type       - The regulatory type of the pipeline.
+Pipeline Seam Orientation      - The orientation of seams in the pipeline.
+Pipeline Seam Type             - The type of seams in the pipeline.
+Pipeline Supplier              - The supplier of the pipeline components.
+Pipeline Valve Diameter        - The diameter of valves in the pipeline.
+Pipeline Valve Position        - The position of valves in the pipeline.
+Pipeline Valve Type            - The type of valves used in the pipeline.
+Symbol Rotation                - The rotation of symbols in the pipeline system.
+VerticalAlignment              - The vertical alignment of the pipeline.
+Yes No                         - A boolean value representing yes or no.
+Yes No Not Applicable          - A boolean value representing yes, no, or not applicable.
